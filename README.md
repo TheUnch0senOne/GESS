@@ -1,2 +1,1 @@
-# GESS
-Glitch Extra Storage System
+# FHESS <block id='strtDoc' style="font-size: 10px;">Specially optimized for <span style='text-decoration: underline; color: #3356FF;' onclick='var redir; var redir = confirm("You will be redirected to Glitch.com"); if (redir == true) {window.location.href = "https://glitch.com/";}'>Glitch</span></block><img onclick='var redir; var redir = confirm("You will be redirected to Glitch.com"); if (redir == true) {window.location.href = "https://glitch.com/";}' style='margin-bottom: -4px; margin-left: 5px;' width='40' src='https://i.loli.net/2020/05/18/WscMgEjiho5Onpx.jpg'></img><div style='color: #FF5449; font-size: 10px;' id="disclaimlink">DISCLAIMERS</div>
